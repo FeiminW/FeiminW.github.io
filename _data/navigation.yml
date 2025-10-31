@@ -9,13 +9,13 @@
 
 # main links
 main:
-  - title: "About"
+  - title: "About Me"
     url: /
   - title: "Quant Projects"
     url: /quant-projects/
   - title: "AI Agents"
     url: /ai-agents/
-  - title: "Blog / Research"
+  - title: "Blog"
     url: /year-archive/
   - title: "CV"
     url: /cv/
