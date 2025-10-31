@@ -10,4 +10,4 @@ I am a Master's student at Kyoto University focusing on Quantitative Analysis an
 
 This site is built using **Jekyll** and the **academicpages** template.
 
-You can clone this repository to view the source code for my publications, projects, and contact information.
+
