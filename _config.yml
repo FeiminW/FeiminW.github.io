@@ -25,24 +25,24 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Feimin Wang"
-  bio              : "Graduate Student at Kyoto University with a keen interest in Quantitative Analysis and AI."
+  bio              : "Lifelong Learner."
   location         : "Kyoto,Japan"
-  employer         : "Red Brick University"
+  employer         : "Kyoto University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hanzhan2012@gmail.com" 
 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "feiminw"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
